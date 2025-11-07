@@ -1,0 +1,8 @@
+﻿streamlit==1.51.0
+pandas==2.3.3
+numpy==2.3.4
+scikit-learn==1.5.2
+google-generativeai==0.7.2
+pydantic>=2.0
+typing-extensions>=4.8
+tqdm>=4.66
